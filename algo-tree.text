@@ -1,0 +1,32 @@
+Programming Techniques and Approaches
+   |
+   |-- Brute Force
+   |    |-- Recursion
+   |         |-- Backtracking
+   |              |-- DFS
+   |              |-- BFS
+   |         |-- Divide and Conquer
+   |              |-- Merge Sort
+   |              |-- Quick Sort
+   |         |-- Exhaustive Search
+   |              |-- Permutations and Combinations
+   |              |-- Subset Generation
+   |         |-- Greedy Algorithms
+   |              |-- Minimum Spanning Trees
+   |              |-- Huffman Encoding
+   |         |-- Randomized Algorithms
+   |              |-- Monte Carlo Methods
+   |              |-- Las Vegas Algorithms
+   |         |-- Approximation Algorithms
+   |              |-- Traveling Salesman Problem
+   |              |-- Knapsack Problem
+   |         |-- Heuristics
+   |              |-- Hill Climbing
+   |              |-- Simulated Annealing
+   |              |-- Genetic Algorithms
+   |         |-- Metaheuristics
+   |              |-- Tabu Search
+   |              |-- Ant Colony Optimization
+   |              |-- Particle Swarm Optimization
+   |-- Dynamic Programming
+        |-- Memoization
