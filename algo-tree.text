@@ -29,4 +29,6 @@ Programming Techniques and Approaches
    |              |-- Ant Colony Optimization
    |              |-- Particle Swarm Optimization
    |-- Dynamic Programming
-        |-- Memoization
+        |-- Memoization (Top-Down)
+        |-- Tabulation (Bottom-Up)
+
